@@ -108,7 +108,6 @@
       </blockquote>
 
       <!-- image placeholder -->
-      <img src="/images/digital-connection-placeholder.png" alt="digital access illustration" class="centered-img" />
     </div>
   {/if}
 </section>
